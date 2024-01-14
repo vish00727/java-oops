@@ -1,6 +1,6 @@
 package OOps;
 
-public class PrivateThing {
+public class Parent {
 
 
 
@@ -11,7 +11,7 @@ public class PrivateThing {
 
 
 
-class Cog extends PrivateThing {
+class Cog extends Parent {
      Cog(){
         System.out.println(" hii how are yoy");
 

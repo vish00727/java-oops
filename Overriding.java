@@ -1,6 +1,6 @@
 package OOps;
 
-
+//simple override method in java
 
    public class Override {
         void  draw(){
